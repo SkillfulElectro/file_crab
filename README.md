@@ -10,3 +10,6 @@ this app can be used to modify templates
 2. insert word which u want to be replaced
 3. insert new word
 4. <<END>>
+
+
+- tested on linux
